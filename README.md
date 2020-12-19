@@ -7,7 +7,7 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: **ayosiiiofficiel@gmail.com**
 - 😄 Pronouns: ...
-- ⚡ Fun fact: _I hate liking things that i don't particurarly like or things that i hate ??_
+- ⚡ Fun fact: _That's is pretty good_
 
 [![TheAyos's github stats](https://github-readme-stats.vercel.app/api?username=theayos&count_private=true&show_icons=true)](https://github.com/TheAyos)
 
