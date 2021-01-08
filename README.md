@@ -11,8 +11,6 @@
 
 [![TheAyos's github stats](https://github-readme-stats.vercel.app/api?username=theayos&count_private=true&show_icons=true)](https://github.com/TheAyos)
 
-<!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=theayos&repo=Tritium-WA)](https://github.com/TheAyos/Tritium-WA)-->
+<!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=theayos&repo=Tritium-WA)](https://github.com/TheAyos/Tritium-WA)-->         
 
-[![Comwander](https://github-readme-stats.vercel.app/api/pin/?username=theayos&repo=Comwander)](https://github.com/TheAyos/Comwander)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theayos&layout=compact&langs_count=5)](https://github.com/TheAyos)
+[![Comwander](https://github-readme-stats.vercel.app/api/pin/?username=theayos&repo=Comwander)](https://github.com/TheAyos/Comwander)         [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theayos&layout=compact&langs_count=5)](https://github.com/TheAyos)
