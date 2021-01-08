@@ -1,16 +1,18 @@
 ### Hi there 👋 I'm ζ͜͡ʏøʊɮʏøʊɮ⚡✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on **WhatsApp AUTOMATION ! -> [Comwander](https://github.com/TheAyos/Comwander)**
+- 🌱 I’m currently learning **Maaaathematics**
+- 👯 I’m looking to collaborate on **Life !**
+- 🤔 I’m looking for help from **you !**
+- 💬 Ask me about **everything**
 - 📫 How to reach me: **ayosiiiofficiel@gmail.com**
-- 😄 Pronouns: ...
-- ⚡ Fun fact: _That's is pretty good_
+- 😄 Pronouns: **youbyoub**
+- ⚡ Fun fact: _You are curious_
 
 [![TheAyos's github stats](https://github-readme-stats.vercel.app/api?username=theayos&count_private=true&show_icons=true)](https://github.com/TheAyos)
 
 <!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=theayos&repo=Tritium-WA)](https://github.com/TheAyos/Tritium-WA)-->
+
+[![Comwander](https://github-readme-stats.vercel.app/api/pin/?username=theayos&repo=Comwander)](https://github.com/TheAyos/Comwander)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theayos&layout=compact&langs_count=5)](https://github.com/TheAyos)
