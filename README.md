@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm ζ͜͡ʏøʊɮʏøʊɮ⚡✨ !
 
-- 🔭 I’m currently working on **WhatsApp AUTOMATION ! -> [Comwander](https://github.com/TheAyos/Comwander) and [Tritium](https://github.com/TheAyos/Comwander)**
+- 🔭 I’m currently working on **WhatsApp AUTOMATION ! -> [Comwander](https://github.com/TheAyos/Comwander) and [ζTritium](https://github.com/TheAyos/Tritium-WA)**
 - 🌱 I’m currently learning **Maaaathematics**
 - 👯 I’m looking to collaborate on **Life**
 - 😄 I’m looking for help from **you**
