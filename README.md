@@ -11,8 +11,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=theayos&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/TheAyos">
-  <img align="center" src=h"ttps://github-readme-stats.vercel.app/api/top-langs/?username=theayos&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theayos&layout=compact" />
 </a>
+
+<br>
+<br>
 
 [![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TheAyos)](https://github.com/TheAyos)
 
