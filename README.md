@@ -17,6 +17,6 @@
 <br>
 <br>
 
-[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TheAyos)](https://github.com/TheAyos)
+[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@TheAyos&v=1)](https://github.com/TheAyos)
 
 <!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=theayos&repo=Tritium-WA)](https://github.com/TheAyos/Tritium-WA)-->
