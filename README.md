@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working on **WhatsApp AUTOMATION ! -> [Comwander](https://github.com/TheAyos/Comwander) and [ζTritium](https://github.com/TheAyos/Tritium-WA)**
 - 🌱 I’m currently learning **Maaaathematics**
-- 👯 I’m looking to collaborate on **Life**
-- 😄 I’m looking for help from **you**
 - 📫 How to reach me: **ayosiiiofficiel@gmail.com**
 - ⚡ Fun fact: _You are curious_
 
