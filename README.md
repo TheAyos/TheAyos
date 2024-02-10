@@ -12,6 +12,6 @@
   <img align="center" src="https://github-readme-stats-tau-neon-70.vercel.app/api/top-langs/?username=theayos&layout=compact" />
 </a>
 
-[![Yes](https://github-readme-stats-tau-neon-70.vercel.app/api/top-langs/?username=theayos&layout=compact)]
-
-[![My wakatime stats](https://github-readme-stats-tau-neon-70.vercel.app/api/wakatime?username=@TheAyos)](https://github.com/TheAyos)
+![](https://github-readme-stats-tau-neon-70.vercel.app/api?username=theayos&count_private=true&show_icons=true)
+![Yes](https://github-readme-stats-tau-neon-70.vercel.app/api/top-langs/?username=theayos&layout=compact)
+![My wakatime stats](https://github-readme-stats-tau-neon-70.vercel.app/api/wakatime?username=@TheAyos)](https://theayos.github.io/)
