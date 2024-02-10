@@ -7,4 +7,4 @@
 
 ![](https://github-readme-stats-tau-neon-70.vercel.app/api?username=theayos&count_private=true&show_icons=true)
 ![](https://github-readme-stats-tau-neon-70.vercel.app/api/top-langs/?username=theayos&layout=compact)
-![](https://github-readme-stats-tau-neon-70.vercel.app/api/wakatime?username=@TheAyos)](https://theayos.github.io/)
+![X](https://github-readme-stats-tau-neon-70.vercel.app/api/wakatime?username=@TheAyos)](https://theayos.github.io/)
