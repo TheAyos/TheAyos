@@ -5,6 +5,11 @@
 - 📫 How to reach me: **ayosiiiofficiel@gmail.com**
 - ⚡ Fun fact: _You are curious_
 
-![](https://github-readme-stats-tau-neon-70.vercel.app/api?username=theayos&count_private=true&show_icons=true)
+<details>
+<summary>:zap: GitHub Stats</summary>
+<br>
+
 ![](https://github-readme-stats-tau-neon-70.vercel.app/api/top-langs/?username=theayos&layout=compact)
-[![](https://github-readme-stats-tau-neon-70.vercel.app/api/wakatime?username=@TheAyos)](https://theayos.github.io/)]
+[![](https://github-readme-stats-tau-neon-70.vercel.app/api/wakatime?username=@TheAyos)](https://theayos.github.io/)
+![](https://github-readme-stats-tau-neon-70.vercel.app/api?username=theayos&count_private=true&show_icons=true)
+</details>
