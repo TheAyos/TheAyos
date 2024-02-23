@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm ζ͜͡ʏøʊɮʏøʊɮ⚡✨ !
 
-- 🔭 I’m currently working on **WhatsApp AUTOMATION ! -> [Comwander](https://github.com/TheAyos/Comwander) and [ζTritium](https://github.com/TheAyos/Tritium-WA)**
-- 🌱 I’m currently learning **Mathematics & Computer Science**
+- 🌱 I’m currently learning **Mathematics & Computer Science** at university and self-learning **React**
 - 📫 How to reach me: **ayosiiiofficiel@gmail.com**
 - ⚡ Fun fact: _You are curious_
 
