@@ -19,6 +19,6 @@
 
 <p align="center"><img align="left" src="https://github-readme-stats-tau-neon-70.vercel.app/api/top-langs?username=theayos&show_icons=true&locale=en&layout=compact" alt="theayos" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-tau-neon-70.vercel.app/api?username=theayos&show_icons=true&locale=en" alt="theayos" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-tau-neon-70.vercel.app/api?username=theayos&show_icons=true&locale=en&count_private=true" alt="theayos" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theayos&" alt="theayos" /></p>
