@@ -1,4 +1,4 @@
-### Hi there 👋, I'm ζ͜͡ʏøʊɮʏøʊɮ⚡✨ !
+### Hi there 👋, I'm Ayoub !
 
 - 🌱 I’m currently learning **Mathematics & Computer Science** at university and self-learning **React and ML algorithms**
 - 📫 How to reach me: **ayosiiiofficiel@gmail.com** or **[LinkedIn](https://www.linkedin.com/in/ayoub-agouzoul/)**
