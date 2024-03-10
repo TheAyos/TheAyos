@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Ayoub !
 
 - 🌱 I’m currently learning **Mathematics & Computer Science** at university and self-learning **React and ML**
-- 📫 How to reach me: **ayosiiiofficiel@gmail.com** or **[LinkedIn](https://www.linkedin.com/in/ayoub-agouzoul/)**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/ayoub-agouzoul/)**
 - ⚡ Fun fact: _You are curious_
 
 <p align="center"><a href="https://theayos.github.io/"><img src="https://github-readme-stats-tau-neon-70.vercel.app/api/wakatime?username=@TheAyos&layout=compact" alt="theayos" /></a>
