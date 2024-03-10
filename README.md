@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Ayoub !
 
-- 🌱 I’m currently learning **Mathematics & Computer Science** at university and self-learning **React and ML algorithms**
+- 🌱 I’m currently learning **Mathematics & Computer Science** at university and self-learning **React and ML**
 - 📫 How to reach me: **ayosiiiofficiel@gmail.com** or **[LinkedIn](https://www.linkedin.com/in/ayoub-agouzoul/)**
 - ⚡ Fun fact: _You are curious_
 
