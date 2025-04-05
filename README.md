@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Ayoub !
 
-<p align="center"><a href="https://ayoubagouzoul.com/"><img src="https://github-readme-stats-tau-neon-70.vercel.app/api/wakatime?username=@TheAyos&layout=compact" alt="theayos" /></a>
+<!--<p align="center"><a href="https://ayoubagouzoul.com/"><img src="https://github-readme-stats-tau-neon-70.vercel.app/api/wakatime?username=@TheAyos&layout=compact" alt="theayos" /></a>-->
 <!-- (url)<img align="left" src="https://github-readme-stats-tau-neon-70.vercel.app/api/top-langs?username=theayos&show_icons=true&locale=en&layout=compact" alt="theayos" /></p> -->
 <p align="center"><a href="https://ayoubagouzoul.com/">Website</a>
   
